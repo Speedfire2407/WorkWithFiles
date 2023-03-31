@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task1", "..\Task1\Task1.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinalTask", "..\FinalTask\FinalTask.csproj", "{0E8F18C3-DAFF-4D49-927D-A010CA536032}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "..\Task2\Task2.csproj", "{17072226-6E50-4A5A-945B-8597790E6E36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task2", "..\Task2\Task2.csproj", "{17072226-6E50-4A5A-945B-8597790E6E36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileScaner", "..\FileScaner\FileScaner.csproj", "{7F4ED857-B566-48F3-BA0F-17241DC74B1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{17072226-6E50-4A5A-945B-8597790E6E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17072226-6E50-4A5A-945B-8597790E6E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17072226-6E50-4A5A-945B-8597790E6E36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F4ED857-B566-48F3-BA0F-17241DC74B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F4ED857-B566-48F3-BA0F-17241DC74B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F4ED857-B566-48F3-BA0F-17241DC74B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F4ED857-B566-48F3-BA0F-17241DC74B1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
